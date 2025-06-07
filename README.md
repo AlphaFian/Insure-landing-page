@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution]((https://github.com/AlphaFian/Insure-landing-page.git)
+- Solution URL: [My solution](https://github.com/AlphaFian/Insure-landing-page.git)
 - Live Site URL: [Live site](https://insure-landing-page-tau-cyan.vercel.app/)
 
 ## My process
