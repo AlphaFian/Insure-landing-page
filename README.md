@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution]([https://your-solution-url.com](https://github.com/AlphaFian/Insure-landing-page.git))
+- Live Site URL: [Live site](https://insure-landing-page-tau-cyan.vercel.app/)
 
 ## My process
 
@@ -89,6 +89,7 @@ for next improvement, i think this project need to be added some transition for 
 
 - [Fluid Typography Calculator](https://royalfig.github.io/fluid-typography-calculator/) - This helped me setting the responsive fonts
 - [ChatGPT](https://chatgpt.com) - This AI Help to solve my problem when coding.
+- [Vercel](https://vercel.com) - this website help me to deploy my project for free
 
 ## Author
 
