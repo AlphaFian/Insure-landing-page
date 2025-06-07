@@ -259,6 +259,7 @@ body {
   font-size: clamp(2.5rem, 2.206199460916442rem + 1.4375561545372868vw, 3.5rem);
   line-height: 1;
   letter-spacing: -0.5px;
+  font-weight: 400;
 }
 .footer {
   display: grid;
@@ -380,6 +381,7 @@ body {
   .hidden {
     display: block;
   }
+
   .navigation-links {
     display: flex;
     position: static;
@@ -428,6 +430,12 @@ body {
     flex-direction: row-reverse;
     gap: 32px;
   }
+  .feature-content {
+    margin-block-start: 305px;
+  }
+  .more-info_content h2 {
+    margin-block-end: 0;
+  }
   .pattern-right {
     top: -14.5%;
   }
@@ -441,10 +449,6 @@ body {
   .first-hr {
     display: block;
   }
-  .different {
-    margin-block-start: 305px;
-    text-align: left;
-  }
   .second-hr {
     margin-inline: 0;
     margin-block-start: 0;
@@ -454,6 +458,10 @@ body {
     width: 1110px;
     margin-inline: auto;
     text-align: left;
+    margin-block-end: 157px;
+  }
+  .feature-item {
+    margin-block-end: 0;
   }
   .features-list {
     display: grid;
@@ -473,7 +481,7 @@ body {
   }
   .more-info_content h2 {
     text-align: left;
-    width: 60%;
+    width: 474px;
     line-height: 1;
     letter-spacing: -0.8px;
   }
